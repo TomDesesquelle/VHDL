@@ -8,7 +8,7 @@
 -- Project Name:    
 -- Target Devices:  
 -- Tool Versions:   VIVADO 2018.3
--- Description:    	RECONFIGURABLE UNIVERSAL ASYNCHRONOUS RECEIVER TRANSMITTER Tx MODULE
+-- Description:     RECONFIGURABLE UNIVERSAL ASYNCHRONOUS RECEIVER TRANSMITTER Tx MODULE
 -- 
 ----------------------------------------------------------------------------------
 
