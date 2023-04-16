@@ -8,7 +8,7 @@
 -- Project Name:    
 -- Target Devices:  
 -- Tool Versions:   VIVADO 2018.3
--- Description: 	  RECONFIGURABLE MASTER SERIAL PERIPHERAL INTERFACE (SPI) MODULE
+-- Description:     RECONFIGURABLE MASTER SERIAL PERIPHERAL INTERFACE (SPI) MODULE
 -- 
 ----------------------------------------------------------------------------------
 
